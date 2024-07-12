@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Meesho-clone",
+    "imageSrc": "projects/meeshoClone.png",
+    "description": "Developed a clone of Meesho,This project showcases the ability to create a fully functional and user-friendly e-commerce application",
+    "skills": ["React", "ReduxToolKit"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Social-Media",
+    "imageSrc": "projects/socialMedia.png",
+    "description": "Developed a full-featured social media platform. This project demonstrates the ability to create an engaging and interactive social media application with real-time features and user-friendly design.",
+    "skills": ["React", "Bootstrap"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "TaskMaster",
+    "imageSrc": "projects/todoApp.png",
+    "description": " Developed TaskMaster, a powerful application designed to help users organize and prioritize their daily tasks. This project showcases the ability to build a functional application",
+    "skills": ["React", "Bootstrap"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
