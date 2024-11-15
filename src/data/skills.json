@@ -16,6 +16,19 @@
     "imageSrc": "skills/react.png"
   },
   {
+    "title": "Express.JS",
+    "imageSrc": "skills/express.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+
+  {
+    "title": "NodeJS",
+    "imageSrc": "skills/nodejs.png"
+  },
+  {
     "title": "Redux",
     "imageSrc": "skills/redux.png"
   },
@@ -30,5 +43,18 @@
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+
+  {
+    "title": "TailWind",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "skills/postman-logo.png"
+  },
+  {
+    "title": "Vercel",
+    "imageSrc": "skills/vercel.png"
   }
 ]

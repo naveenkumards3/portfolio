@@ -7,8 +7,10 @@ const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Naveen Kumar D S</h1>
         <p className={styles.description}>
-          i'm a passionate React developer with a knack for building dynamic and
-          responsive web applications.
+          I'm a passionate Full Stack Developer specializing in the MERN stack
+          (MongoDB, Express.js, React.js, Node.js). With a strong foundation in
+          web development and a knack for solving complex problems, I thrive on
+          creating dynamic and engaging web applications.
         </p>
         <a href="mailto:naveends8228@gmail.com" className={styles.contactBtn}>
           Contact Me

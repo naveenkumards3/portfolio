@@ -7,23 +7,22 @@ const About = () => {
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         <img
-          src={getImageUrl("about/reactLogo.png")}
-          alt="reactImage"
-          className={styles.reactImage}
+          src={getImageUrl("about/mern-logo.jpg")}
+          alt="mernImage"
+          className={styles.mernImage}
         />
         <div className={styles.aboutItems}>
-          <h2 className={styles.reactTitle}>React Developer</h2>
+          <h2 className={styles.reactTitle}>FullStack Developer</h2>
           <p className={styles.description}>
-            I am a passionate React developer with a strong background in
-            building dynamic and responsive web applications.I specialize in
-            leveraging React's powerful capabilities to create seamless user
-            experiences. My expertise includes JavaScript (ES6+), HTML, CSS, and
-            various modern libraries and frameworks such as Redux, ReduxToolKit,
-            Bootstrap, Figma, npm for Package Manager, and GitHub for version
-            control. I thrive on solving complex problems and continuously
-            strive to enhance my skills by staying up-to-date with the latest
-            industry trends and technologies. Let's connect and create something
-            amazing together!
+            Enthusiastic Full Stack Developer with a focus on the MERN stack
+            (MongoDB, Express.js, React.js, Node.js). Expert in building dynamic
+            and scalable web applications that deliver seamless user
+            experiences. Skilled in both frontend and backend development, API
+            integration, and performance optimization. Passionate about
+            continuous learning and implementing cutting-edge technologies.
+            Experienced in delivering high-quality projects within agile
+            environments. Ready to take on new challenges and collaborate on
+            impactful web solutions.
           </p>
         </div>
       </div>

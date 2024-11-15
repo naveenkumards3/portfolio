@@ -1,5 +1,12 @@
 [
   {
+    "title": "MERN-Ecommerce",
+    "imageSrc": "projects/mern-ecommerce.png",
+    "description": "Developed a full-featured e-commerce platform. This project demonstrates the ability to create an engaging and interactive e-commerce application with real-time features and user-friendly design.",
+    "skills": ["Mongo DB", "Express,React,NodeJS"],
+    "source": "https://mern-backend-git-main-naveens-projects-78199a30.vercel.app/login"
+  },
+  {
     "title": "Meesho-clone",
     "imageSrc": "projects/meeshoClone.png",
     "description": "Developed a clone of Meesho,This project showcases the ability to create a fully functional and user-friendly e-commerce application",
